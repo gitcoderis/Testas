@@ -196,7 +196,7 @@ function Objektas(vardas, pavarde, amzius) {
   this.age = amzius;
 }
 
-function submit() {
+function submit() { 
   var name = document.getElementById('name').value;
   var surname = document.getElementById('surname').value;
   var age = document.getElementById('age').value;
